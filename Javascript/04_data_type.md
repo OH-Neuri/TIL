@@ -69,6 +69,9 @@
 ## 06. 데이터 타입
 
 ### 데이터 타입
+![image](https://github.com/user-attachments/assets/b741d842-88ea-46e1-8c1f-64237198dc72)
+
+
 
 ### 숫자 타입 (number)
 
